@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.21)  8 FEB 2020 18:05
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.21)  14 FEB 2020 18:05
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1598,7 +1598,25 @@ Underfull \hbox (badness 10000) in paragraph at lines 2287--2295
 
  []
 
-[79] [80] (./BiologyNote.aux)
+[79] [80]
+File: BiologyImage/63.jpg Graphic file (type bmp)
+<BiologyImage/63.jpg>
+ [81]
+File: BiologyImage/64.jpg Graphic file (type bmp)
+<BiologyImage/64.jpg>
+File: BiologyImage/65.jpg Graphic file (type bmp)
+<BiologyImage/65.jpg>
+ [82]
+Underfull \hbox (badness 10000) in paragraph at lines 2409--2415
+
+ []
+
+[83] [84] [85]
+File: BiologyImage/66.jpg Graphic file (type bmp)
+<BiologyImage/66.jpg>
+File: BiologyImage/67.jpg Graphic file (type bmp)
+<BiologyImage/67.jpg>
+ [86] (./BiologyNote.aux)
 
 LaTeX Font Warning: Size substitutions with differences
 (Font)              up to 0.41063pt have occurred.
@@ -1608,12 +1626,12 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 30087 strings out of 492922
- 670531 string characters out of 6136751
+ 30107 strings out of 492922
+ 670911 string characters out of 6136751
  731671 words of memory out of 5000000
- 33636 multiletter control sequences out of 15000+600000
+ 33651 multiletter control sequences out of 15000+600000
  537864 words of font info for 95 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  62i,18n,85p,471b,844s stack positions out of 5000i,500n,10000p,200000b,80000s
 
-Output written on BiologyNote.pdf (80 pages).
+Output written on BiologyNote.pdf (86 pages).

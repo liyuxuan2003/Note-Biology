@@ -164,3 +164,14 @@
 \contentsline {subsection}{\numberline {9.10}人类遗传病}{80}% 
 \contentsline {subsubsection}{\numberline {9.10.1}人类遗传病的判断方法}{80}% 
 \contentsline {subsubsection}{\numberline {9.10.2}人类的家庭称谓}{80}% 
+\contentsline {section}{\numberline {10}生物工程}{81}% 
+\contentsline {subsection}{\numberline {10.1}基因工程}{81}% 
+\contentsline {subsection}{\numberline {10.2}细胞工程}{83}% 
+\contentsline {subsubsection}{\numberline {10.2.1}植物组织和细胞培养技术}{83}% 
+\contentsline {subsubsection}{\numberline {10.2.2}动物组织和细胞培养技术}{84}% 
+\contentsline {subsubsection}{\numberline {10.2.3}干细胞技术}{84}% 
+\contentsline {subsubsection}{\numberline {10.2.4}细胞融合技术}{85}% 
+\contentsline {subsubsection}{\numberline {10.2.5}细胞核移植技术}{85}% 
+\contentsline {subsubsection}{\numberline {10.2.6}胚胎移植技术}{85}% 
+\contentsline {subsection}{\numberline {10.3}酶工程}{85}% 
+\contentsline {subsubsection}{\numberline {10.3.1}酶的固定化技术}{86}% 
