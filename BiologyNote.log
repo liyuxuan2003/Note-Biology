@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.21)  14 FEB 2020 18:05
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.21)  22 FEB 2020 22:10
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1553,12 +1553,12 @@ File: BiologyImage/55.jpg Graphic file (type bmp)
 File: BiologyImage/56.jpg Graphic file (type bmp)
 <BiologyImage/56.jpg>
  [66] [67] [68]
-Underfull \hbox (badness 10000) in paragraph at lines 1994--2014
+Underfull \hbox (badness 10000) in paragraph at lines 1996--2016
 
  []
 
 [69]
-Underfull \hbox (badness 10000) in paragraph at lines 2035--2040
+Underfull \hbox (badness 10000) in paragraph at lines 2037--2042
 
  []
 
@@ -1577,24 +1577,24 @@ File: BiologyImage/60.jpg Graphic file (type bmp)
 File: BiologyImage/61.jpg Graphic file (type bmp)
 <BiologyImage/61.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2259--2266
+Underfull \hbox (badness 10000) in paragraph at lines 2261--2268
 
  []
 
 File: BiologyImage/62.jpg Graphic file (type bmp)
 <BiologyImage/62.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2268--2275
+Underfull \hbox (badness 10000) in paragraph at lines 2270--2277
 
  []
 
 [78]
-Underfull \hbox (badness 10000) in paragraph at lines 2279--2285
+Underfull \hbox (badness 10000) in paragraph at lines 2281--2287
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2287--2295
+Underfull \hbox (badness 10000) in paragraph at lines 2289--2297
 
  []
 
@@ -1607,7 +1607,7 @@ File: BiologyImage/64.jpg Graphic file (type bmp)
 File: BiologyImage/65.jpg Graphic file (type bmp)
 <BiologyImage/65.jpg>
  [82]
-Underfull \hbox (badness 10000) in paragraph at lines 2409--2415
+Underfull \hbox (badness 10000) in paragraph at lines 2411--2417
 
  []
 
