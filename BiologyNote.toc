@@ -43,7 +43,8 @@
 \contentsline {subsubsection}{\numberline {3.6.1}光反应}{21}% 
 \contentsline {subsubsection}{\numberline {3.6.2}暗反应}{21}% 
 \contentsline {subsubsection}{\numberline {3.6.3}叶绿体中的色素}{22}% 
-\contentsline {subsubsection}{\numberline {3.6.4}光合作用的强度}{22}% 
+\contentsline {subsubsection}{\numberline {3.6.4}光合作用糖类的去路}{22}% 
+\contentsline {subsubsection}{\numberline {3.6.5}光合作用的强度}{22}% 
 \contentsline {subsection}{\numberline {3.7}呼吸作用}{23}% 
 \contentsline {subsubsection}{\numberline {3.7.1}有氧呼吸}{23}% 
 \contentsline {subsubsection}{\numberline {3.7.2}无氧呼吸}{24}% 

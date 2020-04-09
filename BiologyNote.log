@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.21)  4 APR 2020 18:04
+This is XeTeX, Version 3.14159265-2.6-0.999991 (TeX Live 2019/W32TeX) (preloaded format=xelatex 2019.7.21)  9 APR 2020 21:46
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1327,12 +1327,7 @@ File: BiologyImage/11.jpg Graphic file (type bmp)
  [20]
 File: BiologyImage/12.jpg Graphic file (type bmp)
 <BiologyImage/12.jpg>
- [21]
-Underfull \hbox (badness 10000) in paragraph at lines 603--619
-
- []
-
-[22]
+ [21] [22]
 File: BiologyImage/13.jpg Graphic file (type bmp)
 <BiologyImage/13.jpg>
  [23] [24] [25]
@@ -1342,12 +1337,12 @@ File: BiologyImage/14.jpg Graphic file (type bmp)
 File: BiologyImage/15.jpg Graphic file (type bmp)
 <BiologyImage/15.jpg>
  [27]
-Underfull \hbox (badness 10000) in paragraph at lines 798--802
+Underfull \hbox (badness 10000) in paragraph at lines 802--806
 
  []
 
 
-Overfull \hbox (14.87602pt too wide) in paragraph at lines 810--818
+Overfull \hbox (14.87602pt too wide) in paragraph at lines 814--822
  [] 
  []
 
@@ -1373,7 +1368,7 @@ File: BiologyImage/22.jpg Graphic file (type bmp)
 File: BiologyImage/23.jpg Graphic file (type bmp)
 <BiologyImage/23.jpg>
  [35] [36]
-Overfull \hbox (26.29025pt too wide) in paragraph at lines 1104--1112
+Overfull \hbox (26.29025pt too wide) in paragraph at lines 1108--1116
  [] 
  []
 
@@ -1383,7 +1378,7 @@ File: BiologyImage/24.jpg Graphic file (type bmp)
 File: BiologyImage/29.jpg Graphic file (type bmp)
 <BiologyImage/29.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1155--1183
+Underfull \hbox (badness 10000) in paragraph at lines 1159--1187
 
  []
 
@@ -1392,7 +1387,7 @@ File: BiologyImage/25.jpg Graphic file (type bmp)
 File: BiologyImage/30.jpg Graphic file (type bmp)
 <BiologyImage/30.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1185--1201
+Underfull \hbox (badness 10000) in paragraph at lines 1189--1205
 
  []
 
@@ -1402,7 +1397,7 @@ File: BiologyImage/26.jpg Graphic file (type bmp)
 File: BiologyImage/31.jpg Graphic file (type bmp)
 <BiologyImage/31.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1205--1221
+Underfull \hbox (badness 10000) in paragraph at lines 1209--1225
 
  []
 
@@ -1412,7 +1407,7 @@ File: BiologyImage/27.jpg Graphic file (type bmp)
 File: BiologyImage/32.jpg Graphic file (type bmp)
 <BiologyImage/32.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1225--1242
+Underfull \hbox (badness 10000) in paragraph at lines 1229--1246
 
  []
 
@@ -1427,7 +1422,7 @@ File: BiologyImage/44.jpg Graphic file (type bmp)
 File: BiologyImage/45.jpg Graphic file (type bmp)
 <BiologyImage/45.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1268--1286
+Underfull \hbox (badness 10000) in paragraph at lines 1272--1290
 
  []
 
@@ -1445,7 +1440,7 @@ File: BiologyImage/37.jpg Graphic file (type bmp)
 File: BiologyImage/38.jpg Graphic file (type bmp)
 <BiologyImage/38.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1334--1342
+Underfull \hbox (badness 10000) in paragraph at lines 1338--1346
 
  []
 
@@ -1465,7 +1460,7 @@ File: BiologyImage/42.jpg Graphic file (type bmp)
 File: BiologyImage/43.jpg Graphic file (type bmp)
 <BiologyImage/43.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1399--1407
+Underfull \hbox (badness 10000) in paragraph at lines 1403--1411
 
  []
 
@@ -1477,7 +1472,7 @@ File: BiologyImage/48.jpg Graphic file (type bmp)
 File: BiologyImage/49.jpg Graphic file (type bmp)
 <BiologyImage/49.jpg>
  [51]
-Underfull \hbox (badness 10000) in paragraph at lines 1443--1464
+Underfull \hbox (badness 10000) in paragraph at lines 1447--1468
 
  []
 
@@ -1485,7 +1480,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 1443--1464
 File: BiologyImage/50.jpg Graphic file (type bmp)
 <BiologyImage/50.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 1485--1523
+Underfull \hbox (badness 10000) in paragraph at lines 1489--1527
 
  []
 
@@ -1493,27 +1488,27 @@ Underfull \hbox (badness 10000) in paragraph at lines 1485--1523
 File: BiologyImage/51.jpg Graphic file (type bmp)
 <BiologyImage/51.jpg>
  [54]
-Underfull \hbox (badness 10000) in paragraph at lines 1547--1577
+Underfull \hbox (badness 10000) in paragraph at lines 1551--1581
 
  []
 
 [55]
-Underfull \hbox (badness 10000) in paragraph at lines 1613--1626
+Underfull \hbox (badness 10000) in paragraph at lines 1617--1630
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 1639--1640
+Underfull \hbox (badness 10000) in paragraph at lines 1643--1644
 
  []
 
 [56]
-Underfull \hbox (badness 10000) in paragraph at lines 1690--1710
+Underfull \hbox (badness 10000) in paragraph at lines 1694--1714
 
  []
 
 [57] [58]
-Underfull \hbox (badness 10000) in paragraph at lines 1734--1735
+Underfull \hbox (badness 10000) in paragraph at lines 1738--1739
 
  []
 
@@ -1521,12 +1516,12 @@ Underfull \hbox (badness 10000) in paragraph at lines 1734--1735
 File: BiologyImage/52.jpg Graphic file (type bmp)
 <BiologyImage/52.jpg>
  [60]
-Underfull \hbox (badness 10000) in paragraph at lines 1788--1813
+Underfull \hbox (badness 10000) in paragraph at lines 1792--1817
 
  []
 
 [61]
-Underfull \hbox (badness 10000) in paragraph at lines 1853--1867
+Underfull \hbox (badness 10000) in paragraph at lines 1857--1871
 
  []
 
@@ -1543,12 +1538,12 @@ File: BiologyImage/55.jpg Graphic file (type bmp)
 File: BiologyImage/56.jpg Graphic file (type bmp)
 <BiologyImage/56.jpg>
  [66] [67] [68]
-Underfull \hbox (badness 10000) in paragraph at lines 2010--2030
+Underfull \hbox (badness 10000) in paragraph at lines 2014--2034
 
  []
 
 [69]
-Underfull \hbox (badness 10000) in paragraph at lines 2051--2056
+Underfull \hbox (badness 10000) in paragraph at lines 2055--2060
 
  []
 
@@ -1567,24 +1562,24 @@ File: BiologyImage/60.jpg Graphic file (type bmp)
 File: BiologyImage/61.jpg Graphic file (type bmp)
 <BiologyImage/61.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2275--2282
+Underfull \hbox (badness 10000) in paragraph at lines 2279--2286
 
  []
 
 File: BiologyImage/62.jpg Graphic file (type bmp)
 <BiologyImage/62.jpg>
 
-Underfull \hbox (badness 10000) in paragraph at lines 2284--2291
+Underfull \hbox (badness 10000) in paragraph at lines 2288--2295
 
  []
 
 [78]
-Underfull \hbox (badness 10000) in paragraph at lines 2295--2301
+Underfull \hbox (badness 10000) in paragraph at lines 2299--2305
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 2303--2311
+Underfull \hbox (badness 10000) in paragraph at lines 2307--2315
 
  []
 
@@ -1597,7 +1592,7 @@ File: BiologyImage/64.jpg Graphic file (type bmp)
 File: BiologyImage/65.jpg Graphic file (type bmp)
 <BiologyImage/65.jpg>
  [82]
-Underfull \hbox (badness 10000) in paragraph at lines 2425--2431
+Underfull \hbox (badness 10000) in paragraph at lines 2429--2435
 
  []
 
