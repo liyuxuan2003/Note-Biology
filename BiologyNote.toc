@@ -79,6 +79,7 @@
 \contentsline {subsection}{\numberline {5.3}DNA的转录}{36}% 
 \contentsline {subsection}{\numberline {5.4}RNA的翻译}{36}% 
 \contentsline {subsection}{\numberline {5.5}遗传物质相关酶}{37}% 
+\contentsline {subsection}{\numberline {5.6}遗传相关概念辨析}{37}% 
 \contentsline {section}{\numberline {6}细胞的分裂和分化}{38}% 
 \contentsline {subsection}{\numberline {6.1}生殖方式}{38}% 
 \contentsline {subsubsection}{\numberline {6.1.1}无性生殖}{38}% 
